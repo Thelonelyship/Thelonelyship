@@ -3,13 +3,19 @@
 
 ## About Me
 I am from, and am now based, in Newcastle-upon-Tyne.
-My degree is in Psychology from Bangor University in Wales, and I also studied Japanese language at Waseda University in Tokyo.
-Being an English teacher since 2016, I have learnt to break down tasks into manageable chunks which seems to help a lot with understanding code.
-I also speak English and Japanese and love to keep learning new things!
+My degree is in Psychology from Bangor University in Wales, and I also studied Japanese Language at Waseda University in Tokyo.
+I have also studied level 3 Criminology, English Language, Quantitative Methods and Time Management.
+I have now completed the level 3 bootcamp in Software Development.
+
+As you can tell, I enjoy learning new things and challenging myself!
+
+Being an English teacher since 2016, I have learnt to break down tasks into manageable chunks in order to help people identify areas to focus on for their studies, which I think seems to help a lot with understanding code.
+
 
 ## Design
 I have a keen eye for design and love to try to incorporate my unique characters and designs into projects.
-I am a huge fan of fantasy worlds and have several original characters.
+I am a huge fan of fantasy worlds and have several original characters. My fox character being my favourite. :blush:
+Here are a couple of examples:
 
 <p align="center"><img src="https://raw.githubusercontent.com/Thelonelyship/Portfolio-Project/refs/heads/main/images/stare.png" width="100" height="100"> <img src="https://raw.githubusercontent.com/Thelonelyship/Portfolio-Project/refs/heads/main/images/Mayuki.png" width="100" height="100"> <img src="https://raw.githubusercontent.com/Thelonelyship/Portfolio-Project/refs/heads/main/images/potions.png" width="100" height="120"></p>
 
